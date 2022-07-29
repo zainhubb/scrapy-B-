@@ -30,7 +30,7 @@ pylint==2.5.3
 pyOpenSSL==19.1.0
 queuelib==1.5.0
 requests==2.24.0
-Scrapy==2.2.0
+Scrapy==2.6.2
 service-identity==18.1.0
 setuptools==40.8.0
 six==1.15.0
