@@ -18,7 +18,7 @@ lazy-object-proxy==1.4.3
 lxml==4.5.1
 mccabe==0.6.1
 parsel==1.6.0
-Pillow==7.2.0
+Pillow==9.3.0
 pip==19.0.3
 Protego==0.1.16
 pyasn1==0.4.8
